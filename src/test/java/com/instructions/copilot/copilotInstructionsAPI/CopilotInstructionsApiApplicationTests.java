@@ -1,4 +1,4 @@
-package com.instructions.copilot.copilot_instructions_API;
+package com.instructions.copilot.copilotInstructionsAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

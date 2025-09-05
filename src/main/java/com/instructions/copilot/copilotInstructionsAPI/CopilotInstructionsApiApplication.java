@@ -1,4 +1,4 @@
-package com.instructions.copilot.copilot_instructions_API;
+package com.instructions.copilot.copilotInstructionsAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

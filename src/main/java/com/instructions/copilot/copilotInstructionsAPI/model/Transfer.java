@@ -1,4 +1,4 @@
-package com.instructions.copilot.copilot_instructions_API.model;
+package com.instructions.copilot.copilotInstructionsAPI.model;
 
 import jakarta.persistence.*;
 import lombok.*;
